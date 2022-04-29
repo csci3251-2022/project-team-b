@@ -18,4 +18,6 @@ In this project, we will utilize the project management tools provided by GitHub
 - ???
 - ???
 
- 
+# Workflow
+
+![workflow](https://github.com/csci3251-2022/project-team-b/actions/workflows/c-cpp.yml/badge.svg)
