@@ -13,5 +13,7 @@ jobs:
 
     steps:
     - uses: actions/checkout@v3
+    - name: build
+      run: gcc code.c -o code
     - name: run
-      run: gcc code.c -o code && ./code
+      run: ./code
