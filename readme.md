@@ -4,15 +4,15 @@ In this project, we will utilize the project management tools provided by GitHub
 
 # Code
 
-No code available now ):
+{% include_relative code.c %}
 
 # Contributors
 
 - loookforanans
 - lalalam123
 - ColsonCZH
-- ???
-- ???
+- viscory
+- byydzh
 - ???
 - ???
 
