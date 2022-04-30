@@ -17,8 +17,8 @@ In this project, we will utilize the project management tools provided by GitHub
 - ColsonCZH
 - viscory
 - byydzh
-- ???
-- ???
+- thomaskwan98
+- JunboShen
 
 # Workflow
 
