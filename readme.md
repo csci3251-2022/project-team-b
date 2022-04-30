@@ -5,6 +5,7 @@ In this project, we will utilize the project management tools provided by GitHub
 # Code
 {% include_relative code.c %}
 
+
 ```c
 #include <stdio.h>
  
@@ -21,9 +22,11 @@ int main(void) {
 - loookforanans
 - lalalam123
 - ColsonCZH
-- ???
-- ???
-- ???
+- viscory
+- byydzh
+- JunboShen
 - ???
 
- 
+# Workflow
+
+![workflow](https://github.com/csci3251-2022/project-team-b/actions/workflows/c-cpp.yml/badge.svg)
