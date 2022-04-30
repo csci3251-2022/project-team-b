@@ -8,6 +8,8 @@ In this project, we will utilize the project management tools provided by GitHub
 {% include_relative code.c %}
 ```
 
+![code](https://s1.328888.xyz/2022/04/30/A0c5g.png)
+
 # Contributors
 
 - loookforanans
