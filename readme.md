@@ -16,7 +16,7 @@ In this project, we will utilize the project management tools provided by GitHub
 - viscory
 - byydzh
 - JunboShen
-- ???
+- HoongyuKong
 {% for member in site.stu %}
   <h2>
     <a href="https://github.com/{{ member.user }}">
