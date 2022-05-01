@@ -4,9 +4,9 @@ In this project, we will utilize the project management tools provided by GitHub
 
 # Code
 
-'''C
+``` c
 {% include_relative code.c %}
-'''
+```
 ![example workflow](https://github.com/csci3251-2022/project-team-b/blob/main/.github/workflows/c-cpp.yml/badge.svg)
 
 
