@@ -16,6 +16,7 @@ In this project, we will utilize the project management tools provided by GitHub
 - viscory
 - byydzh
 - JunboShen
+- thomaskwan98
 - HoongyuKong
 {% for member in site.stu %}
   <h2>
